@@ -1,4 +1,4 @@
-# Mid-Level DevOps Engineer – Media - London – up to £60,000 
+# Mid-Level DevOps Engineer – Media - London – up to £60,000 - POSITION FILLED
 
 # Stack: 
 AWS, Terraform, Kubernetes, Docker, ansible, Jenkins, Jira etc on the toolchain side.
